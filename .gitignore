@@ -1,0 +1,6 @@
+.example/
+.cache/
+dist/
+*.log
+.idea/
+node_modules/
