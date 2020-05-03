@@ -1,0 +1,23 @@
+{
+  "name": "four-card-section",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "hyunmo ahn <mos_dev@naver.com>",
+  "homepage": "https://github.com/hyunmos/sample#readme",
+  "license": "MIT",
+  "main": "src/index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyunmos/sample.git"
+  },
+  "scripts": {
+    "build": "parcel src/index.html --port 1235"
+  },
+  "bugs": {
+    "url": "https://github.com/hyunmos/sample/issues"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "parcel": "^1.12.4"
+  }
+}
